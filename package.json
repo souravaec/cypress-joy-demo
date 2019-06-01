@@ -1,0 +1,22 @@
+{
+  "name": "cypressproject_outis",
+  "version": "1.0.0",
+  "description": "my_first_cypress_project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "delete:reports": "rm /home/souravaec/Documents/Sourav/TechFolder/StandardTech/Cypress/CypressProject_Outis/results/* || true",
+    "prereport": "npm run delete:reports",
+    "report": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "sourav",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.3.0",
+    "cypress-image-snapshot": "^3.0.2"
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.013999999999999" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-05-30T05:15:18" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Action Test" timestamp="2019-05-30T05:15:18" tests="3" failures="0" time="5.013999999999999">
+    <testcase name="Action Test submit developer name" time="3.43" classname="submit developer name">
+    </testcase>
+    <testcase name="Action Test should enable slider" time="0.968" classname="should enable slider">
+    </testcase>
+    <testcase name="Action Test text area should have empty value by default" time="0.616" classname="text area should have empty value by default">
+    </testcase>
+  </testsuite>
+</testsuites>

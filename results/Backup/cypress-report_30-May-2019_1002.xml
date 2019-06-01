@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.123" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-05-30T04:28:33" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="My first cypress test" timestamp="2019-05-30T04:28:33" tests="1" failures="0" time="2.123">
+    <testcase name="My first cypress test should load example webpage" time="2.123" classname="should load example webpage">
+    </testcase>
+  </testsuite>
+</testsuites>
